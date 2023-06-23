@@ -1,1 +1,8 @@
-# DHT11-webserver
+# Webserver using ESP8266:
+
+The ESP8266 is a Wi-Fi-enabled microcontroller module that has gained popularity for its versatility and affordability. It integrates a microcontroller unit (MCU) with Wi-Fi capabilities, making it an ideal choice for Internet of Things (IoT) projects. On the other hand, HTML (Hypertext Markup Language) is the standard markup language used for creating web pages and applications.
+When it comes to the ESP8266 and HTML, they can be used together to create web-based user interfaces for controlling and monitoring IoT devices. By leveraging the ESP8266's Wi-Fi connectivity and its ability to host a web server, developers can build interactive web pages using HTML, CSS (Cascading Style Sheets), and JavaScript, which can be accessed through a browser.
+  
+HTML is responsible for defining the structure and content of the web page, while CSS is used for styling and visual presentation. JavaScript can be employed for adding interactivity and dynamic behaviour to the web page. These technologies allow developers to create user-friendly interfaces that can display data, receive user input, and send commands to the ESP8266.
+The ESP8266 can serve the HTML files from its file system or generate HTML content dynamically using server-side scripting languages like Node.js. It can handle HTTP requests from the browser, process user actions, and communicate with other devices or services as needed. This enables users to interact with their IoT devices through a web-based interface on their computers, smartphones, or tablets.
+By combining the ESP8266 with HTML, developers can create powerful and accessible interfaces for controlling and monitoring their IoT devices over a Wi-Fi network. This approach provides a flexible and scalable solution for remote device management, data visualization, and user interaction, all through a standard web browser interface.
